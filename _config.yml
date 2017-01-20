@@ -1,0 +1,24 @@
+typography_spectrum: 0.8822907393332571
+color:
+  brandStrength: 0.5782970923464745
+  lightness: 0.8627602802589536
+  saturation: 0.49097394244745374
+  rhythmicContrast: 0.36871001473627985
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+layout_spectrum: 0.3561766592320055
+name: imagineXsolutions
+content: []
+github: true
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ab7acee-2847-4053-8a20-01a875aa1013.jpg
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d4e56e7-8fdf-42e6-ae08-b0b6ca68be97.png
+author:
+  name: MA
+  email: michellealphonso@imaginexsolutions.com
+  url: www.imaginexsolutions.com
