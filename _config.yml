@@ -12,7 +12,32 @@ color:
     - '#333333'
 layout_spectrum: 0.3561766592320055
 name: imagineXsolutions
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f6c7a23-dfc8-4099-a591-29b044d0843b.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f6c7a23-dfc8-4099-a591-29b044d0843b.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 github: true
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ab7acee-2847-4053-8a20-01a875aa1013.jpg
