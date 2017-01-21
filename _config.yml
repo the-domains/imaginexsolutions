@@ -128,3 +128,6 @@ purpose:
   - type: contact
     url: 'mailto:info@imaginexsolutions.com'
     label: Have a question?
+  - type: contact
+    url: 'mailto:info@imaginexsolutions.com'
+    label: Contact me
